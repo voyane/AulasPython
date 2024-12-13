@@ -1,0 +1,1 @@
+print("O numero digitedo foi: ", input("Digite um numero: "))
